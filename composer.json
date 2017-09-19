@@ -1,0 +1,26 @@
+{
+  "name": "drupal/drupal_toolkit",
+  "description": "Provides a set of features with useful methods to work in an easier way with Drupal.",
+  "type": "drupal-module",
+  "keywords": ["Drupal", "Toolkit"],
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Diego Marrufo Rodríguez",
+      "homepage": "https://www.drupal.org/u/dimaro",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Leandro Luvigne",
+      "homepage": "https://www.drupal.org/u/lluvigne",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Neftalí Guerrero Pancorbo",
+      "homepage": "https://www.drupal.org/u/nesta_",
+      "role": "Maintainer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": { }
+}

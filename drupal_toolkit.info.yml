@@ -1,0 +1,5 @@
+name: drupal_toolkit
+type: module
+description: Provides a set of features with useful methods to work in an easier way with Drupal.
+package: Drupal Toolkit
+core: 8.x
