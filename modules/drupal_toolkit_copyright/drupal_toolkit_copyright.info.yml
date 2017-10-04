@@ -1,0 +1,5 @@
+name: Copyright
+type: module
+description: Provides a 'Copyright' block.
+core: 8.x
+package: Drupal Toolkit
